@@ -1,0 +1,93 @@
+What is DevOps?
+In general, DevOps bridges the gap between development, quality assurance, and IT operations as shown below. DevOps is a set of practices that promote communication and collaboration among these various teams.
+
+devops overview
+
+The goal of DevOps is to merge daily tasks involved in the development, quality control, deployment, and integration of software development into a single, continuous set of processes. Teams develop best practices and principles that will make development cycles shorter and assist teams in continuously delivering high-quality software. 
+
+DevOps principles and practices
+While there is not an official DevOps framework, there are a few principles that can help as you implement DevOps in your organization:
+
+Automate processes.
+Continuously deliver high-quality systems.
+React quickly to feedback to continuously improve processes.
+DevOps is a natural extension of Agile methodologies. Agile workflows have separate objectives for development and operations teams. DevOps addresses the lack of communication and collaboration between development and IT operations teams. When DevOps and Agile are used together, both teams can manage code releases and integration without confusion.
+
+What are DevOps engineer responsibilities?
+A DevOps engineer works with diverse teams and departments to create and implement software systems. People who work in DevOps are experienced IT professionals who collaborate with software developers, quality assurance professionals, and IT staff to manage code releases.
+
+DevOps engineers need to be able to multitask, demonstrate flexibility, and deal with many different situations at a time. Specifically, a DevOps engineer’s responsibilities include:
+
+Documentation: Writes specifications and documentation for the server-side features.
+
+Systems analysis: Analyzes the technology currently being used and develops plans and processes for improvement and expansion. The DevOps engineer provides support for urgent analytic needs.
+
+Development: Develops, codes, builds, installs, configures, and maintains IT solutions.
+
+Project planning: Participates in project planning meetings to share their knowledge of system options, risk, impact, and costs vs. benefits. In addition, DevOps engineers communicate operational requirements and development forecasts.
+
+Testing: Tests code, processes, and deployments to identify ways to streamline and minimize errors.
+
+Deployment: Uses configuration management software to automatically deploy updates and fixes into the production environment.
+
+Maintenance and troubleshooting: Performs routine application maintenance to ensure the production environment runs smoothly. Develops maintenance requirements and procedures.
+
+Performance management: Recommends performance enhancements by performing gap analysis, identifying alternative solutions, and assisting with modifications.
+
+Management: Depending on the size of the organization, the DevOps engineer may also be responsible for managing a team of DevOps engineers.
+
+What skill set does a DevOps engineer need?
+The role of a DevOps engineer is not defined by a set career path. But there are a few skills that are required if you want to make DevOps your career.
+
+Communication: A DevOps engineer needs to work with a lot of different people across different teams. Verbal and written communication among the teams is very important. If you do not enjoy working with a lot of different people or if you don’t communicate very well, this may not be the job for you.
+
+Problem-solving and troubleshooting: DevOps engineers must be able to quickly identify problems or bottlenecks in everyday processes and procedures. They suggest improvements and implement fixes as needed to ensure processes meet expectations. 
+
+Software development: DevOps engineers need to have experience developing software applications and a good knowledge of scripting languages such as Java, JavaScript, Perl, Ruby, Python, PHP, Groovy, Bash, and so on.
+
+Process-oriented: DevOps engineers must have the ability to focus on processes and procedures rather than results and underlying causes. They try to understand a design problem before trying to fix it. They also don’t try to force solutions that worked on old problems onto new problems.
+
+Documentation: Processes must be clearly documented so that knowledge is passed on.
+
+Agile experience: An understanding of, or experience in, an Agile software development environment helps a DevOps engineer.
+
+Product/project management: A DevOps engineer needs to have had experience with leading a development project and managing schedules.
+
+Education: This job usually requires a bachelor’s or master’s degree in Computer Science, Engineering, Software Engineering, or a relevant field.
+
+IT best practices: This position requires experience with, or a good understanding of, IT best practices in an always-up, always-available service.
+
+Deployment/configuration management: DevOps engineers should have experience with managing deployments and integrations using configuration management tools such as Git, Jira, GitLab, or Jenkins.
+
+Operating system platforms: This role benefits from experience with Windows and Linux operating system environments.
+
+What are DevOps tools?
+There are a few tools to help you automate the deployment delivery and integration process. If you want to be a DevOps engineer, it may be a good idea to get familiar with some deployment tools that help with continuous delivery and custom automation scripts.
+
+Source control tools: Source control tools like Git, Jira, and Subversion help you keep track of changes made to projects. This makes it easy to revert back to a previous version of the code at any time. It’s extra useful when new bugs appear because you can look at a working version of the code and compare it against the current version to track down and fix problems. 
+
+Continuous integration tools: Continuous integration is the practice of automating code testing and builds when developers commit changes to a version control repository, sometimes several times a day. Tools like Jenkins, Buildbot, and Buddy give developers constant feedback on the status of deployed software. These tools can alert you to deficiencies so you can quickly resolve problems as they arise.
+
+Team management tools: There are a variety of team management tools, such as Agile Manager and Agile Bench. Both help you manage team tasks, track statuses, and manage schedules.
+
+Visualization tools: Visualization gives you a better understanding of your entire system so you can troubleshoot problems faster and plan for future expansion. Lucidchart can help you visualize complex networks, codebase, and infrastructure and share these diagrams with team members to encourage collaboration from anywhere in the world. 
+
+cloud architecture with costs example
+Cloud architecture with costs example (Click on image to modify online)
+What is the role of a DevOps team?
+DevOps teams work as liaisons between IT operations and engineering. While DevOps teams rarely work with external customers, they keep a “customer first” mindset to ensure delivery of quality service and products to internal and external customers. DevOps teams work in collaboration with other teams to scale cloud programs, plan and create workflow processes, develop automation procedures, deploy updates, and so on.  
+
+What does the future hold for DevOps engineers?
+As cloud development continues to grow and more companies migrate to the cloud, the future of DevOps looks good. In the last two years, many companies have instituted DevOps practices and many more are planning to do so. 
+
+Companies will continue to embrace DevOps in an effort to bring developers and IT closer together. This, in turn, will open up new roles such as DevSeqOps. The DevSecOps role adds security into the mix of DevOps. The goal is to ensure that systems are secure in every stage of the delivery cycle.
+
+In addition to security, other DevOps trends include:
+
+Extension into the Internet of Things world: In addition to facilitating frequent software updates, DevOps can help facilitate more frequent IoT device updates.
+
+Rising DevOps engineer salaries: According to salary.com, the salary range for DevOps engineers in the United States is $103,780 to $128,150 per year.
+
+Prioritization of automation and testing across industries: This trend will increase demand for DevOps engineers.
+
+If you are interested in working in DevOps, there are a lot of opportunities. But first, make sure you are prepared and have a good understanding of, and experience with, deployment automation, quality assurance, testing automation, and version control. The field will continue to evolve and grow, so there will likely be ample opportunity to find the DevOps job that you want.
